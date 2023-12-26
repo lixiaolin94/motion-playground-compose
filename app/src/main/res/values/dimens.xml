@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="bottom_sheet_padding_bottom">80dp</dimen>
+    <dimen name="float_window_width">100dp</dimen>
+    <dimen name="float_window_height">160dp</dimen>
+    <dimen name="border_1">1dp</dimen>
+    <dimen name="border_2">2dp</dimen>
+</resources>

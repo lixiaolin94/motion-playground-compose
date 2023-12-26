@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Motion Playground</string>
+    <string name="velocity_response_coefficient">Velocity Response Coefficient</string>
+    <string name="damping_ratio">Damping Ratio</string>
+    <string name="stiffness">Stiffness</string>
+    <string name="design_friendly_properties">Design friendly properties</string>
+    <string name="bounce">Bounce</string>
+    <string name="duration">Duration</string>
+    <string name="scale_range">Scale Range</string>
+    <string name="velocity_response_factor">Velocity response factor</string>
+    <string name="pop_toggle_button">Pop Toggle Button</string>
+    <string name="draggable_float_window">Draggable Float Window</string>
+    <string name="tap">Tap</string>
+    <string name="press">Press</string>
+    <string name="drag">Drag</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="scale_from">Scale From</string>
+    <string name="scale_to">Scale To</string>
+    <string name="spring_animation_playground">Spring Animation Playground</string>
+    <string name="spring_dynamics">Spring Dynamics</string>
+    <string name="instant_response_button">Instant Response Button</string>
+    <string name="gesture_pause_detector">Gesture Pause Detector</string>
+    <string name="estimate_duration">Estimate Duration</string>
+</resources>
